@@ -1,5 +1,5 @@
 # protocoles_crypto
-Ce projet consistera à implémenter en python les protocoles cryptographiques que sont RSA et Diffie &amp; Hellman.
+Ce projet consiste à implémenter en python les protocoles cryptographiques que sont RSA et Diffie &amp; Hellman.
 
 les trois fichiers (programmes) sont indépendants.
 
